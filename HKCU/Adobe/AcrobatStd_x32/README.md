@@ -12,7 +12,7 @@ fl Property,valueCount
 Property   : {iAppDoNotTakePDFOwnershipAtLaunch}
 ValueCount : 1
 
-# Test(thorie) :
+# Test10 :
 # New key
 New-item "HKLM:\SOFTWARE\Adobe\Adobe Acrobat\DC\AVAlert" -Name cCheckbox -Force
 
