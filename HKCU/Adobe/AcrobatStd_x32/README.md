@@ -20,4 +20,6 @@ New-item "HKLM:\SOFTWARE\Adobe\Acrobat Reader\DC\AVAlert\" -Name cCheckbox -Forc
 # Syntax : \Adobe\<ProductName>\<version>\AVAlert\cCheckbox
 New-ItemProperty "HKLM:\Software\Adobe\Acrobat Reader\DC\AVAlert\cCheckbox\" `
   -Name iAlwaysEnablePDFMAddin -Value 1 -Type dword -Force  
+  
+# resultart_after test fail
 ````
