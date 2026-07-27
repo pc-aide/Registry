@@ -1,11 +1,12 @@
 # install W11 unsupported 
 
 ## steps
-1. hklm\system\setup\<NewKey>
-2.   name : LabConfig
+1. ctrl + shift + F10 - cmd 
+2. hklm\system\setup\<NewKey>
+3.   name : LabConfig
 <img src="https://i.imgur.com/jAFG5mu.png">
 
-3. newDWORD 32 bit :
+4. newDWORD 32 bit :
     * **Name** : BypassTPMCheck & value = 1
     * **Name** : BypassSecureBootCheck & value = 1
 <img src="https://i.imgur.com/VVxKGt5.png">
