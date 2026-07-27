@@ -14,3 +14,5 @@
 <img src="https://i.imgur.com/lC8Acxu.png">
 
 <img src="https://i.imgur.com/Qwtk8Dy.png">
+
+5. no account : cmd : start ms-cxh:localonly
