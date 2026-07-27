@@ -5,5 +5,9 @@
 2.   name : LabConfig
 <img src="https://i.imgur.com/jAFG5mu.png">
 
-3. newDWORD 32 bit - Name : BypassTPMCheck & value = 1
+3. newDWORD 32 bit :
+    * **Name** : BypassTPMCheck & value = 1
+    * **Name** : BypassSecureBootCheck & value = 1
 <img src="https://i.imgur.com/VVxKGt5.png">
+
+<img src="https://i.imgur.com/lC8Acxu.png">
